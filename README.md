@@ -46,7 +46,7 @@ For example:
 (a) In the file problem1.py, write a function
 
 	def piggify(word):
-    		...
+    	...
 
 That takes an input String word as its parameter and returns a string containing the pig latin translation of
 the word. You can assume that the input is always a lower-case string (no input verification is necessary). 
