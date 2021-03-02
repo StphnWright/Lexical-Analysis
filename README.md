@@ -18,10 +18,8 @@ Comments in Python start with with a "# ..." 
 
 Upload the following four files to Courseworks:
 
-problem1.py
-
-problem2.py
-
+problem1.py 
+problem2.py 
 problem3.py
 
 **Problem 1 (30 pts) - Pig Latin**
@@ -60,7 +58,7 @@ Write a function
 def print_box(s):
    ...
 
-That prints  out the string s centered, in a box. For example, print_box("Python rocks!") should print.
+That prints out the string s centered, in a box. For example, print_box("Python rocks!") should print.
 
 *****************
 * Python rocks! *
