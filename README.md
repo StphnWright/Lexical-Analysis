@@ -18,8 +18,8 @@ Comments in Python start with with a "# ..." 
 
 Upload the following four files to Courseworks:
 
-problem1.py 
-problem2.py 
+problem1.py \n 
+problem2.py \n
 problem3.py
 
 **Problem 1 (30 pts) - Pig Latin**
@@ -58,19 +58,7 @@ Write a function
 def print_box(s):
    ...
 
-That prints out the string s centered, in a box. For example, print_box("Python rocks!") should print.
-
-*****************
-* Python rocks! *
-*****************
-
-Make sure this also works for multi-line strings. The multi-line string "Python\nRocks\n!" should be printed like this:
-
-**********
-* Python *
-* Rocks  *
-*   !    *
-**********
+That prints out the string s centered, in a box. Make sure this also works for multi-line strings.
 
 Write a main program that prompts the user to input a string, and then calls the print_box function to print it.
 
