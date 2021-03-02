@@ -21,7 +21,8 @@ Upload the following four files to Courseworks:
 problem1.py
 problem2.py
 problem3.py
- 
+
+
 **Problem 1 (30 pts) - Pig Latin **
 
 Pig Latin is a language game in which words are altered according to certain rules.  To make the pig latin form of an English word, the initial consonant sound is transposed to the end of the word, and an "ay" is affixed. Specifically, there are two rules: 
