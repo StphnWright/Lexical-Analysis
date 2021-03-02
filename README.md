@@ -18,13 +18,17 @@ Comments in Python start with with a "# ..." 
 
 Upload the following four files to Courseworks:
 
-problem1.py \n 
-problem2.py \n
+problem1.py 
+problem2.py 
 problem3.py
 
 **Problem 1 (30 pts) - Pig Latin**
 
-Pig Latin is a language game in which words are altered according to certain rules.  To make the pig latin form of an English word, the initial consonant sound is transposed to the end of the word, and an "ay" is affixed. Specifically, there are two rules: 
+Pig Latin is a language game in which words are altered according to certain rules. 
+
+To make the pig latin form of an English word, the initial consonant sound is transposed to the end of the
+word, and an "ay" is affixed. Specifically, there are two rules: 
+
 	•	If a word begins with a vowel, append "yay" to the end of the word. 
 	•	If a word begins with a consonant, remove all the consonants from the beginning up to the first vowel and append them to the end of the word. Finally, append "ay" to the end of the word. The letter "y" counts as a consonant. If there are no vowels, simply append "ay" to the end of the word. 
 
@@ -34,6 +38,7 @@ For example: 
 	•	scratch => atchscray
 	•	is => isyay
 	•	apple => appleyay
+	
 (a) In the file problem1.py, write a function
 
 def piggify(word):
