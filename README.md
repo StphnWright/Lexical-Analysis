@@ -1,6 +1,6 @@
-ENGI E1006 - Intro to Computing for Engineers & Applied Scientists
+**ENGI E1006 - Intro to Computing for Engineers & Applied Scientists**
 
-Group Exercise Set 2
+**Group Exercise Set 2**
 
 Due: Thursday February 18 11:59pm, New York time (ET / GMT-5)
 
@@ -22,7 +22,7 @@ problem1.py
 problem2.py
 problem3.py
  
-Problem 1 (30 pts) - Pig Latin 
+**Problem 1 (30 pts) - Pig Latin **
 
 Pig Latin is a language game in which words are altered according to certain rules.  To make the pig latin form of an English word, the initial consonant sound is transposed to the end of the word, and an "ay" is affixed. Specifically, there are two rules: 
 	•	If a word begins with a vowel, append "yay" to the end of the word. 
@@ -51,7 +51,7 @@ vowels = 'aeiou'
 pig latin translation of the word (by calling the piggify function). When the user types a single period, the
 program should quit. 
 
-Problem 2 (30 points) - Fancy Print
+**Problem 2 (30 points) - Fancy Print**
 
 Write a function
 
@@ -76,7 +76,7 @@ Write a main program that prompts the user to input a string, and then calls the
 
 Save your program, including the function, in a file problem2.py.
 
-Problem 3 (40 pts) - Finding Subsequences in DNA Strings
+**Problem 3 (40 pts) - Finding Subsequences in DNA Strings**
 
 DNA molecules consist of a sequence of the four nucleotide bases: adenine, thymine, cytosine, and guanine. The
 nucleotide bases are often abbreviated by their first letter, ATCG) so that DNA is represented as a string of
