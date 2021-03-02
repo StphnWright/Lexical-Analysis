@@ -84,8 +84,12 @@ substring is contained within a longer string. Obviously, finding a substring in
 interesting applications, but here we will focus on DNA sequences.
 
 Python strings already provide an s.find(substring) method that returns the index in s at which substring
-first appears. If the substring does not appear, the method returns -1. For example: "ATCGCGTACT".find("CGCG")
-returns 2, but "ATCGCGTACT".find("CGAT") returns -1. 
+first appears. If the substring does not appear, the method returns -1. 
+
+For example: 
+
+	"ATCGCGTACT".find("CGCG")
+	returns 2, but "ATCGCGTACT".find("CGAT") returns -1. 
 
 (a) Without using the existing find method of Python strings, write a function find(s, substring).
 
