@@ -2,10 +2,6 @@
 
 **Group Exercise Set 2**
 
-Due: Thursday February 18 11:59pm, New York time (ET / GMT-5)
-
-Please ask the instructor and CAs/TAs for help if you get stuck.
-
 Do not use Python modules other than those explicitly mentioned.
 
 Unlike the take-home projects, the group exercises are intended to be worked on your assigned groups 
