@@ -1,7 +1,6 @@
 """
 A program that prompts a user string input 
 to center and print in a box. 
-
 """
 
 py = "Python\nRocks\n!"
