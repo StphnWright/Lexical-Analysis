@@ -1,7 +1,6 @@
 """
 A program to identify shorter DNA substrings 
 contained within a longer string.  
-
 """
 
 #multidimensional list of strings
