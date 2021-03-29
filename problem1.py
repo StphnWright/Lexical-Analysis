@@ -1,7 +1,6 @@
 """
 A program that translates user input words to
 pig latin by calling the piggify function.   
-
 """
 
 # vowel bank
